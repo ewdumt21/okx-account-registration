@@ -8,8 +8,6 @@ Registering for an OKX account takes just a few minutes and gives you access to 
 
 Click the registration link below to get started with exclusive trading fee discounts. Once you land on the **OKX.com** homepage, look for the "**Register**" button prominently displayed at the top of the page.
 
-![OKX homepage with Register button highlighted](image/3603318681759.webp)
-
 This takes you directly to the signup form where you'll begin creating your account.
 
 ## Step 2: Enter Your Email Address
